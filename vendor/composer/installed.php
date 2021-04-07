@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '35ba7b4d27eebbfba3b08b75859e367d7025c3b4',
     'name' => '__root__',
   ),
   'versions' => 
   array (
     '__root__' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '35ba7b4d27eebbfba3b08b75859e367d7025c3b4',
     ),
     'doctrine/instantiator' => 
     array (
@@ -347,6 +347,15 @@
       array (
       ),
       'reference' => 'dc3063ba22c2a1fd2f45ed856374d79114998f91',
+    ),
+    'symfony/routing' => 
+    array (
+      'pretty_version' => 'v5.2.6',
+      'version' => '5.2.6.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '31fba555f178afd04d54fd26953501b2c3f0c6e6',
     ),
     'theseer/tokenizer' => 
     array (
